@@ -92,7 +92,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
               Color(0xFF1C1C1E),
               Colors.black,
             ],
-          ),
+          ),//h
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
